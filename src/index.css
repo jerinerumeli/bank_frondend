@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(images/pexels-adrien-olichon-2387532.jpg) ;
+  background-size: 1537px 100%;
+  margin-top: 16%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
